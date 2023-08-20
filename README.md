@@ -1,5 +1,4 @@
-
-![Header](./banner.png)
+[![MasterHead](./banner.png)]()
 
 <h1 align="center">Hi 👋, I'm Romika Rani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
