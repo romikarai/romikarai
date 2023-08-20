@@ -1,4 +1,4 @@
-[![MasterHead](./banner.png)]()
+[![MasterHead](https://github.com/romikarai/romikarai/blob/main/banner.png)]()
 
 <h1 align="center">Hi 👋, I'm Romika Rani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
